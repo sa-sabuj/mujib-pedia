@@ -1,0 +1,38 @@
+/* header area */
+
+.logo-area .logo img {
+    height: 60px;
+    width: auto;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+.menu-area{
+    margin-top:10px;
+}
+.menu-area .menu-area-devider {
+    border-top: 1px solid rgba(0, 0, 0, 0.064);
+    padding: 0;
+    margin: 0;
+
+}
+.main-menu {
+    margin: 0 auto
+}
+.main-menu ul{
+    padding: 15px 20px 0 20px;
+    text-align: center;
+}
+.main-menu ul li{
+    list-style: none;
+    display: inline;
+   
+}
+
+.main-menu ul li a{
+    
+    text-decoration: none;
+    padding: 25px;
+    color: rgb(35, 35, 35);
+
+}
