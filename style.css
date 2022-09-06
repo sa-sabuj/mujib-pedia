@@ -126,6 +126,12 @@ body {
     float: left;
 }
 
+/* custom section */
+
+.custom-soluation{
+    overflow: hidden;
+}
+
 /* amazing section */
 
 .amazing{
@@ -140,3 +146,29 @@ body {
 
 
 }
+
+/* testimonial section */
+
+
+.client {
+    height: 300px;
+    width: 250px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
