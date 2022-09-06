@@ -1,4 +1,4 @@
-body{
+body {
     margin: o;
     padding: 0;
 }
@@ -15,6 +15,7 @@ body{
 
 .menu-area {
     margin-top: 10px;
+    
 }
 
 .menu-area .menu-area-devider {
@@ -54,7 +55,73 @@ body{
     background-image: url(./images/hero-part.jpg);
     height: 100vh;
     width: 100%;
+
+    /* position: relative; */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.overlay-text {
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-bottom: 0px;
+
+}
+
+.overlay-text h2 {
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+    display: flex;
+    justify-content: start;
+    font-weight: 300;
+}
+
+.overlay-text h1 {
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+    display: flex;
+    justify-content: start;
+    font-weight: 700;
+
+    color: #d49f47;
+}
+
+.overlay-text p {
+    display: flex;
+    justify-content: start;
+   
+}
+.mujib-btn{
+    background-color: #d49f47;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+
+
+}
+.overlay-text-bottom p{
+    padding-top: 150px;
+   
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+}
+.service-section {
+ overflow: hidden;
+ display: block;
+}
+.services-text{
+    width: 50%;
+   float: left;
+}
+.services-box{
+    width: 50%;
+    display: flex;
+    float: left;
 }
