@@ -156,6 +156,27 @@ body {
     
 }
 
+/* Dream Team */
+.team{
+    background-color: #f4f4f4;
+    
+}
+.team-section ul{
+    padding: 15px 20px 0 20px;
+    text-align: center;
+}
+.team-section ul li{
+    list-style: none;
+    display: inline;
+}
+.team-section ul li a{
+text-decoration: none;
+color: #000;
+padding: 8px;
+
+}
+
+
 
 
 
