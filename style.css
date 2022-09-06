@@ -176,8 +176,35 @@ padding: 8px;
 
 }
 
+/* footer section */
 
+.footer-devider{
+    border-top: 1px solid rgba(0, 0, 0, 0.064);
+    padding: 0;
+    margin: 50px 0;
+}
+.row .col-2 ul li{
+    list-style: none;
+    font-size: 12px;
+}
 
+.col-6 .subscrib-text{
+    
+}
+.col-6 .subscrib-btn{
+    background-color: #d49f47;
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+.footer-last-devider{
+    border-top: 1px solid rgba(0, 0, 0, 0.064);
+    padding: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 
 
