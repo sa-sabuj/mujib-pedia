@@ -125,3 +125,18 @@ body {
     display: flex;
     float: left;
 }
+
+/* amazing section */
+
+.amazing{
+    background-color: #d49f47;
+    width: 100%;
+    min-height: 300px;
+    margin-bottom: 50px;
+}
+.amaxing-text  {
+    color: #fff;
+    text-align: center;
+
+
+}
