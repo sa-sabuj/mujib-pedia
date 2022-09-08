@@ -2,7 +2,9 @@ body {
     margin: o;
     padding: 0;
 }
-
+.container{
+    width: 80%;;
+}
 /* header area */
 
 .logo-area .logo img {
@@ -164,13 +166,10 @@ border: none;
     background-color: #d49f47;
     width: 100%;
     max-height: 300px;
-    margin-bottom: 50px;
 }
 .amaxing-text  {
     color: #fff;
     text-align: center;
-
-
 }
 
 /* testimonial section */
@@ -191,8 +190,7 @@ border: none;
 }
 .team-card .card{
     border: none;
-    margin: 10px;
-    padding: 10px;
+  
 }
 .team-card .card img{
     
@@ -228,11 +226,7 @@ padding: 8px;
     list-style: none;
     font-size: 12px;
 }
-
-.col-6 .subscrib-text{
-    
-}
-.col-6 .subscrib-btn{
+.col-6 .searce-area .subscrib-btn{
     background-color: #d49f47;
     border: none;
     color: #fff;
@@ -246,9 +240,7 @@ padding: 8px;
     margin-top: 50px;
     margin-bottom: 20px;
 }
-
 .copyright-text{
-
     margin-bottom: 30px;
 }
 
