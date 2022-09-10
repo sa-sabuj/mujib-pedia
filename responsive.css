@@ -1,0 +1,13 @@
+@media only Screen and (min-width: 1366px) and (max-width: 1920px){
+    .container{
+        max-width: 1115px;
+    }
+
+    .hero-area .container{
+        max-width: 1300px;
+    }
+
+    .hero-area .container .row{
+        height: 100%;
+    }
+}
