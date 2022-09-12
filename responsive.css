@@ -12,17 +12,147 @@
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px){
-   
+   .overlay-text {
+    padding-right: 50px;
+}
+.overlay-text h2 {
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 0;
+    line-height: 60px;
+    color: rgb(53, 53, 53);
+}
+
+.overlay-text h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #d49f47;
+    margin-bottom: 15px;
+}
+
+.overlay-text p {
+    font-size: 20px;
+    color: #c2c2c2;
+    font-weight: 300;
+}
+
+.mujib-btn {
+    background-color: #d49f47;
+    border: none;
+    color: #fff;
+    padding: 16px 35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
 }
 @media only screen and (min-width: 576px) and (max-width: 767px){
+    .overlay-text {
+        padding-right: 10px;
+    }
+    .overlay-text h2 {
+        font-size: 90px;
+        font-weight: 300;
+        margin-bottom: 0;
+        line-height: 60px;
+        color: rgb(53, 53, 53);
+    }
     
+    .overlay-text h1 {
+        font-size: 50px;
+        font-weight: 700;
+        color: #d49f47;
+        margin-bottom: 15px;
+    }
+    
+    .overlay-text p {
+        font-size: 20px;
+        color: #c2c2c2;
+        font-weight: 300;
+    }
+    
+    .mujib-btn {
+        background-color: #d49f47;
+        border: none;
+        color: #fff;
+        padding: 16px 35px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        font-size: 19px;
+    }
 }
 @media only screen and (max-width: 767px){
     
 }
 @media only screen and (min-width: 480px) and (max-width: 576px){
+    .overlay-text {
+        padding-right: 50px;
+    }
+    .overlay-text h2 {
+        font-size: 90px;
+        font-weight: 300;
+        margin-bottom: 0;
+        line-height: 60px;
+        color: rgb(53, 53, 53);
+    }
     
+    .overlay-text h1 {
+        font-size: 50px;
+        font-weight: 700;
+        color: #d49f47;
+        margin-bottom: 15px;
+    }
+    
+    .overlay-text p {
+        font-size: 20px;
+        color: #c2c2c2;
+        font-weight: 300;
+    }
+    
+    .mujib-btn {
+        background-color: #d49f47;
+        border: none;
+        color: #fff;
+        padding: 16px 35px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        font-size: 19px;
+    }
 }
 @media only screen and (min-width: 320px) and (max-width: 479px){
+   
+    /* .overlay-text {
+        padding-right: 10px;
+    } */
+    .overlay-text h2 {
+        font-size: 40px;
+        font-weight: 300;
+        margin-bottom: 0;
+        line-height: 60px;
+        color: rgb(53, 53, 53);
+    }
     
+    .overlay-text h1 {
+        font-size: 50px;
+        font-weight: 700;
+        color: #d49f47;
+        margin-bottom: 15px;
+    }
+    
+    .overlay-text p {
+        font-size: 20px;
+        color: #c2c2c2;
+        font-weight: 300;
+    }
+    
+    .mujib-btn {
+        background-color: #d49f47;
+        border: none;
+        color: #fff;
+        padding: 10px 20px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        font-size: 19px;
+    }
 }
